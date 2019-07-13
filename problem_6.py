@@ -1,4 +1,5 @@
 def get_series(operation, n, k):
+    assert 1 < n <= 1000
     num = ""
 
     for i in range(1, n + 1):

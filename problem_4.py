@@ -9,6 +9,7 @@ def is_prime(num):
 
 
 def buy_egg(date, money):
+    assert 1 <= date <= 31
     price = 2000
     amount = money // price
     if date % 2 == 1:
