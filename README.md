@@ -68,12 +68,19 @@ python manage.py runserver
 ```
 Open localhost:8000 on your browser
 
+## UI and Queries
+
+Main page
 ![Image of main page](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/Index.PNG)
 
+Add data
 ![Image of add data page](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/add-data.PNG)
 
+Edit data
 ![Image of edit data page](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/edit-data.PNG)
 
+Delete data
 ![Image of delete data page](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/delete-data.PNG)
 
+Queries
 ![Image of queries](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/queries.PNG)
