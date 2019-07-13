@@ -67,3 +67,13 @@ Run this command to start development server
 python manage.py runserver
 ```
 Open localhost:8000 on your browser
+
+![Image of main page](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/Index.PNG)
+
+![Image of add data page](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/add-data.PNG)
+
+![Image of edit data page](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/edit-data.PNG)
+
+![Image of delete data page](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/delete-data.PNG)
+
+![Image of queries](https://github.com/eryzerz/ArkademyB11K3/blob/master/problem_7/queries.PNG)
