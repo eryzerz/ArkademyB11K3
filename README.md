@@ -2,15 +2,11 @@
 
 Segala berkas yang terdapat pada repository ini merupakan jawaban dari technical test, berisi 6 soal algoritma dan 1 soal project yang mengimplementasikan CRUD (Create, Read, Update, dan Delete)
 
-## Requirements in General
+## Requirements for Problem 1 - 6
 
 ```bash
 python == 3.7.X
-pipenv == *
-django == 2.1.8
 ```
-
-
 
 ## Nomor 1 - problem_1.py
 
