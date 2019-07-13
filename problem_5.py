@@ -9,6 +9,11 @@ def is_prime(num):
 
 
 def display_triangle(num):
+
+    # Input Validation
+    base_or_height = num
+    assert 0 < base_or_height < 10
+
     ctr = 2
     for i in range(num + 1):
         for j in range(i):

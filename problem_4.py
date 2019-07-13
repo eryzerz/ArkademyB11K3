@@ -38,6 +38,7 @@ def buy_egg(date, money):
 
 def main():
     print(buy_egg(25, 50000))
+    print(buy_egg(5, 100000))
 
 
 if __name__ == "__main__":
