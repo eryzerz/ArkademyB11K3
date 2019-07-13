@@ -1,17 +1,18 @@
-
-
 def get_amount(string, phrase):
+
+    # Input validation
+    phrase_length = len(phrase)
+    string_length = len(string)
+    assert 1 < phrase_length < string_length
+
     array = []
-    count = 0
 
     for i in range(len(string) - len(phrase) + 1):
-        temp_1 = ""
-        temp_2 = ""
+        temp = string[i]
         for j in range(1, len(phrase)):
-            temp_1 += string[i + j]
-        temp_2 = string[i] + temp_1
-        array.append(temp_2)
-        array.append(temp_2[::-1])
+            temp += string[i + j]
+        array.append(temp)
+        array.append(temp[::-1])
 
     return array.count(phrase)
 
