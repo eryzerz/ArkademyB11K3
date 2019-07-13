@@ -32,8 +32,14 @@ pytz==2018.5
 
 ## Stacks
 
-Front-end : HTML, CSS, Bootstrap, JS
-Back-end : Python, Django, SQLite3
+Front-end :
+```bash
+HTML, CSS, Bootstrap, JS
+```
+Back-end : 
+```bash
+Python, Django, SQLite3
+```
 
 ## Usage - problem_7
 
